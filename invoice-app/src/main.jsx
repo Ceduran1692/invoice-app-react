@@ -6,5 +6,5 @@ import { InvoiceApp } from './components/invoiceApp'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <InvoiceApp/>
-  </StrictMode>,
+  </StrictMode>
 )
